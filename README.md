@@ -1,5 +1,5 @@
 # MiXCR auto analyser
-Testing creating a new repository and sharing little script for automating MiXCR analysis of SRA files delivered to a Google Cloud storage bucket.
+Testing creating a new repository and sharing a little script for automating MiXCR analysis of SRA files delivered to a Google Cloud storage bucket.
 
 The script should be run with two command line arguments, eg. `python sra_analyse.py cloudbucket 10x-sc-xcr-vdj`
 
