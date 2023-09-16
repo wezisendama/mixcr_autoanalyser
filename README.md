@@ -5,4 +5,4 @@ The script should be run with two command line arguments, eg. `python sra_analys
 
 The first command line argument is name of Google Cloud storage bucket containing files delivered from NCBI (via the SRA Run Selector), and the second argument is the MiXCR preset.
 
-Credit goes to @erilu because I learned the Python syntax for loops and executing bash commands from [this script](https://github.com/erilu/bulk-rnaseq-analysis/blob/master/fastq_download.py).
+Credit goes to [@erilu](https://github.com/erilu) because I learned the Python syntax for loops and executing bash commands from [this script](https://github.com/erilu/bulk-rnaseq-analysis/blob/master/fastq_download.py).
